@@ -3,3 +3,4 @@
 # shows PID and name of program of each socket
 
 netstat -l -p
+
