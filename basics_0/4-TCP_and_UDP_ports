@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 # Bash script that display listening ports  with PIF and program names
-sudo netstat -tulnp && sudo netstat -lxnp
+
+netstat -l -p
 
