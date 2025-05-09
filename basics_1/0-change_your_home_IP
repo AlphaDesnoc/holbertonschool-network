@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Bash script that changes IP
+# Bash script that changes IP in file /etc/hosts
+# Check if the script is run as root
 echo "Updating the /etc/hosts file..."
 {
     echo "127.0.0.2   localhost"
