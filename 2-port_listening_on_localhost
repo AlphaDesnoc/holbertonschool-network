@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# listen p98
-nc -l localhost 98
